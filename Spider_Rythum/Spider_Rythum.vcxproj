@@ -151,20 +151,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\SpiderMouse_Rhythm\MyProgram\changespeed.cpp" />
-    <ClCompile Include="..\..\SpiderMouse_Rhythm\MyProgram\fft.cpp" />
-    <ClCompile Include="..\..\SpiderMouse_Rhythm\MyProgram\fftmain.cpp" />
-    <ClCompile Include="..\..\SpiderMouse_Rhythm\MyProgram\getwavdata.cpp" />
-    <ClCompile Include="..\..\SpiderMouse_Rhythm\MyProgram\rfh.cpp" />
-    <ClCompile Include="..\..\SpiderMouse_Rhythm\MyProgram\Top.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\SpiderMouse_Rhythm\MyProgram\HitKey.h" />
-    <ClInclude Include="..\..\SpiderMouse_Rhythm\MyProgram\main.h" />
-    <ClInclude Include="..\..\SpiderMouse_Rhythm\MyProgram\SpidarMouse.h" />
+    <ClInclude Include="MyProgram\HitKey.h" />
+    <ClInclude Include="MyProgram\main.h" />
+    <ClInclude Include="MyProgram\SpidarMouse.h" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="..\..\..\..\Documents\DxLib_VC\プロジェクトに追加すべきファイル_VC用\SpidarMouse.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyProgram\changespeed.cpp" />
+    <ClCompile Include="MyProgram\fft.cpp" />
+    <ClCompile Include="MyProgram\fftmain.cpp" />
+    <ClCompile Include="MyProgram\getwavdata.cpp" />
+    <ClCompile Include="MyProgram\rfh.cpp" />
+    <ClCompile Include="MyProgram\Top.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
