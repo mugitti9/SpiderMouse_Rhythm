@@ -1,1 +1,4 @@
+Visual Studioを利用してコーディング＆exeファイル作成を行った。
+Windows環境下でRelease/Spider_Rythum.exeを起動すれば動作するはずである。
 
+なお作成したプログラムはSpider_Rythum/MyProgramである。
