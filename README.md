@@ -22,4 +22,4 @@ Visual Studioを利用してコーディング＆exeファイル作成を行っ�
 作成したものが動作している様子は[こちら](https://www.youtube.com/watch?v=oFk4WLa7cAs)に記載する。
 
 # その他詳細
-実際の報告書(名前にマスクあり)は[報告書](https://github.com/mugitti9/SpiderMouse_Rhythm/blob/master/報告書.pdf)である。
+実際の報告書(名前にマスクあり)は[こちら](https://github.com/mugitti9/SpiderMouse_Rhythm/blob/master/報告書.pdf)にある。アルゴリズムの詳細などが書かれている。
