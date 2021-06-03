@@ -10,5 +10,8 @@
 Visual Studioを利用してコーディング＆exeファイル作成を行った。 Windows環境下でRelease/Spider_Rythum.exeを起動すれば動作するはずである。
 なお作成したプログラムはSpider_Rythum/MyProgramである。
 
+# プログラムの詳細
+離散フーリエ変換を行うことで周波数成分ごとに分け、それぞれの周波数に重みをもたせて差分演算等を行うことにより、リズムを抽出した(詳細は[報告書](https://github.com/mugitti9/SpiderMouse_Rhythm/blob/master/報告書.pdf)に記載)。
+
 # その他詳細
 実際の報告書(名前にマスクあり)は[報告書](https://github.com/mugitti9/SpiderMouse_Rhythm/blob/master/報告書.pdf)である。
