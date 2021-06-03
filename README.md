@@ -19,7 +19,7 @@ Visual Studioを利用してコーディング＆exeファイル作成を行っ�
 ![実物画像](https://user-images.githubusercontent.com/33088346/120671676-96f5dd80-c4cc-11eb-8069-cc5775b2dac3.png)
 ![パソコンを踏まえた画像](https://user-images.githubusercontent.com/33088346/120671681-98270a80-c4cc-11eb-928d-ce4ce98a3eb9.png)
 
-作成したものの
+作成したものが動作している様子は[こちら](https://www.youtube.com/watch?v=oFk4WLa7cAs)に記載する。
 
 # その他詳細
 実際の報告書(名前にマスクあり)は[報告書](https://github.com/mugitti9/SpiderMouse_Rhythm/blob/master/報告書.pdf)である。
